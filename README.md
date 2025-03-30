@@ -2,8 +2,9 @@
 
 This repository contains my solutions to various LeetCode problems, implemented in Java.  
 I am solving these problems to improve my problem-solving skills and prepare for coding interviews.
+I hope this helps others too 
 
-## 🏷️ Topics Covered
+##  Topics Covered :
 - ✅ Arrays  
 - ✅ Strings  
 - ✅ Linked Lists  
